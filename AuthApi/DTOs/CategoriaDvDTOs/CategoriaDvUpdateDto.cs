@@ -1,11 +1,8 @@
-﻿namespace AuthApi.DTOs.UsuarioDTOs
+﻿namespace AuthApi.DTOs.CategoriaDvDTOs
 {
-    public class CategoriaDvDto
+    public class CategoriaDvUpdateDto
     {
-        public int Id { get; set; }
-
         public string Nombre { get; set; } = "";
-
         public string Descripcion { get; set; } = "";
     }
 }
