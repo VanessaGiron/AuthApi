@@ -45,17 +45,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/UsuarioLoginDto"
+                "$ref": "#/components/schemas/UsuarioLoginDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/UsuarioLoginDto"
+                "$ref": "#/components/schemas/UsuarioLoginDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/UsuarioLoginDto"
+                "$ref": "#/components/schemas/UsuarioLoginDTO"
               }
             }
           }
@@ -121,7 +121,7 @@
   },
   "components": {
     "schemas": {
-      "UsuarioLoginDto": {
+      "UsuarioLoginDTO": {
         "type": "object",
         "properties": {
           "email": {

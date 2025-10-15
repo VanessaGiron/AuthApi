@@ -57,3 +57,4 @@ C:\Users\usuario\Desktop\NET API\AuthApi\AuthApi\obj\Debug\net8.0\refint\AuthApi
 C:\Users\usuario\Desktop\NET API\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.pdb
 C:\Users\usuario\Desktop\NET API\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.genruntimeconfig.cache
 C:\Users\usuario\Desktop\NET API\AuthApi\AuthApi\obj\Debug\net8.0\ref\AuthApi.dll
+C:\Users\usuario\Desktop\NET API\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.sourcelink.json

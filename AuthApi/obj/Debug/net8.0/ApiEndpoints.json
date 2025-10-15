@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "AuthApi.DTOs.UsuarioDTOs.UsuarioLoginDto",
+        "Type": "AuthApi.DTOs.UsuarioDTOs.UsuarioLoginDTO",
         "IsRequired": true
       }
     ],

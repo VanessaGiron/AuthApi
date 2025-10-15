@@ -1,6 +1,6 @@
 ﻿namespace AuthApi.DTOs.UsuarioDTOs
 {
-    public class UsuarioLoginDto
+    public class UsuarioLoginDTO
     {
         public string Email { get; set; } = "";
 

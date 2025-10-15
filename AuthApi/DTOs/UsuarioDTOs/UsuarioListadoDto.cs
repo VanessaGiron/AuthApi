@@ -1,6 +1,6 @@
 ﻿namespace AuthApi.DTOs.UsuarioDTOs
 {
-    public class UsuarioListadoDto
+    public class UsuarioListadoDTO
     {
         public int Id { get; set; }
 
